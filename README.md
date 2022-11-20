@@ -1,1 +1,2 @@
-# Lab 8 - Starter
+# Lab 8 
+I would fit automated tests in my Recipe project development pipeline **within a Github action that runs whenever code is pushed** because I wouldn't have to install all the dependencies or packages to my local machine in order to run the tests. I could easily try new packages on the virtual machine with Github actions so that I wouldn't have to manually run different tests for each decomposed code I develop.
